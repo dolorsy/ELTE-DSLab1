@@ -1,4 +1,4 @@
-# DSLAB Project: Data Preprocessing and Dual Undersampling
+# DSLAB Project: Clusters Purity and CTGAN Generated Data
 
 ## Overview
 
